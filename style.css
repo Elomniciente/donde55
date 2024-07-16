@@ -1,0 +1,115 @@
+html, body {
+	background-color: black;
+	color: white;
+	font-family: helvetica, arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 768px;
+	padding: 20px 5%;
+}
+
+section {
+	background-color: #171717;
+}
+
+h1, h2 {
+	line-height: 1;
+	text-transform: uppercase;
+}
+
+h2 {
+	margin-top: 40px;
+}
+
+h2:first-of-type {
+	margin-top: 20px;
+}
+
+.logo {
+	display: block;
+}
+
+img {
+	height: auto;
+	max-width: 100%;
+}
+
+.logo img {
+	width: 500px;
+}
+
+@media all and (max-width: 768px) {
+	.logo img {
+		width: 450px;
+	}
+}
+
+@media all and (max-width: 479px) {
+	.logo img {
+		width: 350px;
+	}
+}
+
+.icon.heart {
+	color: lightcoral;
+}
+
+a {
+	color: red;
+	font-weight: bold;
+}
+
+a:hover, a:active {
+	color: mediumaquamarine;
+}
+
+a code {
+	color: white;
+}
+
+code {
+	background-color: red;
+	color: black;
+	font-family: monospace;
+	padding: 1px;
+	user-select: all;
+}
+
+code.image {
+	background-color: lightyellow;
+}
+
+
+
+/* OV PRELOADER */
+.ov-preloader {
+   position: fixed;
+   top: 0;
+   left: 0;
+   right: 0;
+   bottom: 0;
+   background-color: #000000;
+   z-index: 999999;
+   height: 100%;
+   width: 100%;
+   overflow: hidden !important;
+}
+.ov-preloader .ov-icon {
+   width: 100px;
+   height: 100px;
+   position: absolute;
+   left: 50%;
+   top: 50%;
+   background-image: url(icono-preloader.gif);
+   background-repeat: no-repeat;
+   background-position: center;
+   -webkit-background-size: cover;
+   background-size: cover;
+   margin: -50px 0 0 -50px;
+}
