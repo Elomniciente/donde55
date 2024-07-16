@@ -1,0 +1,59 @@
+-·27j--1113
+- 30 imagenes
+- 02 gifs
+- 02 jpg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- Open Graph meta tags -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://wdonde55.onrender.com/" />
+  <meta property="og:title" content="todos los Mauros Portfolio - Open Developer, Multimedia Designer, Pointillism Artist" />
+  <meta property="og:description"
+    content="Todos los Mauros, es Full-stack Developer with focus on UI/UX Design to offer the best possible experience for clients and users." />
+  <!-- 180x110 Image for Open Graph, Facebook and LinkedIn -->
+  <meta property="og:image" content="https://wdonde55.onrender.com/logo-1200x630.jpg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <!-- Twitter meta tags -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://wdonde55.onrender.com/logo-1200x630.jpg" />
+  <meta name="twitter:title" content="Todos los Mauros Portfolio - Fullstack Developer, Multimedia Designer, Pointillism Artist" />
+  <meta name="twitter:creator" content="@todoslosviernes" />
+  <meta name="twitter:site" content="@todoslosviernes" />
+  <meta name="twitter:description"
+    content="I am an aspiring Full-stack Developer with focus on UI/UX Design to offer the best possible experience for clients and users." />
+	
+	
+  <!-- Links -->
+  <link rel="icon" href="%PUBLIC_URL%/images/logo.png" />
+  <link rel="canonical" href="https://wdonde55.onrender.com/" />
+  <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo27j.png" />
